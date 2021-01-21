@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\bin\Debug\RungeKuttaMethod.exe.config
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\bin\Debug\RungeKuttaMethod.exe
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\bin\Debug\RungeKuttaMethod.pdb
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\obj\Debug\RungeKuttaMethod.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\obj\Debug\RungeKuttaMethod.Form1.resources
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\obj\Debug\RungeKuttaMethod.Properties.Resources.resources
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\obj\Debug\RungeKuttaMethod.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\obj\Debug\RungeKuttaMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\obj\Debug\RungeKuttaMethod.exe
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ВМ\RungeKuttaMethod\RungeKuttaMethod\obj\Debug\RungeKuttaMethod.pdb
